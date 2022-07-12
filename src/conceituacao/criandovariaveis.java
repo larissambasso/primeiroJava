@@ -1,6 +1,6 @@
 package conceituacao;
 
-public class exercicio01 {
+public class criandovariaveis {
 
 	public static void main(String[] args) {
 		int i;
